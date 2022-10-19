@@ -1,0 +1,38 @@
+body{
+    color: rgb(73, 135, 206);
+}
+.container{
+    background-image: url(https://elviajerofeliz.com/wp-content/uploads/2019/11/Comida-t%C3%ADpica-de-India-_-10-Platos-Imprescindibles.jpg);
+}
+
+img{
+    width: 400px;
+    height:200px;
+}
+h1{
+    color:rgb(195, 28, 28);
+}
+#thirdDiv{
+    width: 500px;
+    height: 500px;
+    background-color:rgb(184, 210, 224);
+    padding: 50px;
+    border: 5px red solid;
+    color: black;
+    margin: 0px auto;
+    
+}
+#spanId{
+    font-size: 28px;
+    margin: 50px;
+}
+a{
+    color:rgb(12, 9, 179);
+    padding: 20px;
+    margin: 50px;
+    font-size: 25px;
+}
+.divClass{
+    margin: 0px auto;
+    text-align: center;
+}
